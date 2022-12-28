@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnakungiri
 - 👀 I’m interested in backend stuff.
-- 🌱 I’m currently learning mongodb, redis, aws and other server side stuff.
+- 🌱 Skilled in nodejs, nestjs, angular, mongodb, sql.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
